@@ -1,4 +1,0 @@
-kp
-==
-
-source of project
