@@ -6,8 +6,13 @@ IP-адрес: <tt><?php echo $_SERVER['SERVER_ADDR']?></tt><br>
 ѕорт: <tt><?php echo $_SERVER['SERVER_PORT']?></tt><br>
 ƒруга€ ссылка (если этот хост - единственный на IP <tt><?php echo $_SERVER['SERVER_ADDR']?></tt>):
 <a href="http://<?php echo $_SERVER['SERVER_ADDR']?>:<?php echo $_SERVER['SERVER_PORT']?>">http://<?php echo $_SERVER['SERVER_ADDR']?>:<?php echo $_SERVER['SERVER_PORT']?></a>
+<<<<<<< HEAD
 1212121212
 <p>≈сли вы хотите настроить Apache так, чтобы хост был виден из локальной сети, см.
+=======
+
+<p>≈сли вы хотите настроить Apache так, чтобы хост был виден из локальной сети, см. 
+>>>>>>> 3e37dac7784d288684c38ea1c589e33675276f79
 статью <a href="http://www.denwer.ru/faq/shared.html">Apache: сервер, видимый из »нтернета</a>.
 
 </body>
