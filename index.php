@@ -1,4 +1,5 @@
-<html>111
+feat
+<html>22222
 <head><title>Нестандартный виртуальный хост</title></head>
 <body>
 Имя хоста: <tt><?php echo $_SERVER['SERVER_NAME']?></tt><br>
