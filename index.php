@@ -14,6 +14,6 @@ IP-адрес: <tt><?php echo $_SERVER['SERVER_ADDR']?></tt><br>
 <p>Если вы хотите настроить Apache так, чтобы хост был виден из локальной сети, см.
 >>>>>>> 3e37dac7784d288684c38ea1c589e33675276f79
 статью <a href="http://www.denwer.ru/faq/shared.html">Apache: сервер, видимый из Интернета</a>.
-
+     maasttt
 </body>
 </html>
